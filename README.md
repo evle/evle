@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evle&layout=compact&hide=html&theme=buefy&hide_border=true"/> 
   
 

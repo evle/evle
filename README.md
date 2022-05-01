@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true" width="60%" align="middle" >
+<img  src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true" width="70%" align="right" >
 

@@ -20,9 +20,13 @@
 
 <p align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evle&layout=compact&hide=html&theme=buefy&hide_border=true"/> 
+ 
 </p>
 
 <div align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=evle&hide_border=true&date_format=%5BY.%5Dn.j"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evle&layout=compact&hide=html&theme=buefy&hide_border=true"/> 
+
+
+<div align="center">
+   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=evle&hide_border=true&theme=buefy&&date_format=%5BY.%5Dn.j"/>
 </div>

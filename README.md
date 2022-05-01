@@ -12,4 +12,5 @@
 - ⚡ Fun fact: ...
 
 
-[![evle's GitHub stats](https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/evle/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=true" width="80%" align="right" >
+

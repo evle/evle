@@ -24,5 +24,5 @@
 </p>
 
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evleevle&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=evle&hide_border=true&date_format=%5BY.%5Dn.j"/>
 </div>

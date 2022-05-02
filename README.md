@@ -5,10 +5,18 @@
 
 I'm evle, a self-motivated tech enthusiast and full stack web developer.
 
+- 💻 I am currently working on **DevOps** and building the **Hybrid Application**.
+
 - 💬 How to reach me: **evlefsp@163.com**
+
+- 🌟 I am constantly find inspiration in open source projects.
+
+- 👯‍♀️ I love connecting with different people.
 
 - ⚡ Fun fact: **Night coding == Peace**
 
+<br>
+  
 ## 🚀 Tech Stack
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -24,14 +32,14 @@ I'm evle, a self-motivated tech enthusiast and full stack web developer.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+<br>
+  
+  
 ## 🎯 Github Activity
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=false&theme=chartreuse-dark" />
-     <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=evle&hide_border=false&theme=github-dark&&date_format=%5BY.%5Dn.j"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=evle&show_icons=true&include_all_commits=true&hide_border=false&theme=chartreuse-dark" />
+   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=evle&hide_border=false&theme=github-dark&&date_format=%5BY.%5Dn.j"/>
 </div>
 
-
-<div align="left">
- 
-</div>
